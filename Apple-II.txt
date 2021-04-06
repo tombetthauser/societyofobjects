@@ -1,0 +1,32 @@
+––––––––––––––––––––––––––––––––––––––––––––––––
+|                 The Apple II                 |
+|        General Information Fact Sheet        |
+––––––––––––––––––––––––––––––––––––––––––––––––
+
+A general fact sheet / ReadMe regarding the technical specifications, production narrative and cultural context of the Apple II microcomputer. Information aggregated freely from open web platforms. Facts are designed to provide general primer for individuals not familiar with the machine.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+The Apple II
+General Information Fact Sheet
+
+A general fact sheet / ReadMe regarding the technical specifications, production narrative and cultural context of the Apple II microcomputer. Information aggregated freely from open web platforms. Facts are designed to provide general primer for individuals not familiar with the machine.
+
+Release Date: June 1977
+Lead Developer: Steve Wozniac
+Manufacturer: Apple Computer, Inc.
+Original Price: $1,298 USD (approx. $5,476 2019)
+Discontinued: May 1979
+
+Operating System: Integer BASIC / Apple DOS
+Central Processing Unit: MOS 6502 (1.023 MHz)
+Memory: Ranged from 4KiB to 64KiB
+Storage: Audio Cassette or Apple Disk II 5¼ in. Drive
+Display RCA (NTSC Video Out)
+Graphics: Low Resolution 16-color 40x48 / High Resolution 6-color 280x192
+Sound: 1-Bit Built-In Audio Speaker
+
+Peripheral Ports: 1-Bit Cassette Audio Jack Input / 1-Bit Cassette Audio Jack Output / Paddle Controllers / Parallel Port Card and Serial Port Card for Apple & Third Party Peripherals / SCSI
+
+Predecessor: The Apple I (1976)
+Successor: The Apple II Plus (1979)
