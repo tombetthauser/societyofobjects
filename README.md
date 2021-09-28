@@ -2,7 +2,7 @@
 
 # Society of Objects Project
 
-## General Project Information / Instructions for Use
+## General Project Information Readme
 
 Art objects for the home or office. Original sculptures made in oil clay, molded in silicone and cast in resin and concrete. Available upon request for trade of image with object at requesters work station. Initial group rendered at 1:6 scale as accurately as possible within approximately 0.5 millimeters.
 
