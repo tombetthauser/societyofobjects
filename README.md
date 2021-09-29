@@ -17,7 +17,7 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 
 ---
 
-## Instructions for Use
+## Instructions for Participation
 
 ### Getting a Computer:
 1) you have recieved a computer by mail
@@ -26,7 +26,7 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 4) pay what you want pricing structure after recieving payment NOT required
 5) if desired suggested donation $50-$150 for materials shipping student debt etc
 
----> *regardless of donation* ***if you wish to participate*** *in project follow instructions below!*
+---> *don't worry about money* ***you are invited to participate*** *follow instructions below!*
 
 ### Photographing Instructions:
 1) ideally place on desk at work with family photos office supplies etc
