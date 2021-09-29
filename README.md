@@ -50,7 +50,14 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 
 ---
 
-## Future Production Possibilities:
+## Known Production Issues:
+
+(in progress)
+
+
+---
+
+## Future Project Possibilities:
 
 (in progress)
  -->
