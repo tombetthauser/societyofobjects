@@ -24,9 +24,9 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 2) alternatively found computer in woods desert storm drain etc
 3) to request computer message linkedin or resume to [@societyobjects](https://twitter.com/societyobjects)
 4) pay what you want pricing structure after recieving payment NOT required
-5) if desired suggested donation $50-$150 for materials shipping student debt etc
+5) if desired suggested $50-$150 for materials shipping student debt etc
 
----> *don't worry about money* ***you are invited to participate*** *follow instructions below!*
+---> *forget about money* ***you are invited to participate*** *follow instructions below!*
 
 ### Photographing Instructions:
 1) ideally place on desk at work with family photos office supplies etc
