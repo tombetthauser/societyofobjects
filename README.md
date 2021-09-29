@@ -41,8 +41,16 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 4) indicate any personal preferences for how photos are used
 5) indicate if you would like a name / username credited with image
 6) all use of images will be respectful and anonymous unless otherwise indicated
-
 <!-- 
 ---
 
-## Initial Production Notes: -->
+## Initial Production Notes:
+
+(in progress)
+
+---
+
+## Future Production Possibilities:
+
+(in progress)
+ -->
