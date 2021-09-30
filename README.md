@@ -14,6 +14,12 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 * hand made art objects for the home or office
 * scalable monuments to success and failure
 * needlessly accurate historical reproductions
+* 6:1 scale mock-ups for 1:6 inverse scale
+* commodifying machines dominating contemporary existence
+* pacific rim gotcha-pon collectible culture
+* archaic smile indicating life in death or death in life
+* projecting emotions on inanimate objects
+* exploring objects 
 
 ---
 
@@ -22,7 +28,7 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 ### Getting a Computer:
 1) you have recieved a computer by mail
 2) alternatively found computer in woods desert storm drain etc
-3) to request computer message linkedin or resume to [@societyobjects](https://twitter.com/societyobjects)
+3) to request computer message linkedin or resume link to [@societyobjects](https://twitter.com/societyobjects)
 4) pay what you want pricing structure after recieving payment NOT required
 5) if desired suggested $50-$150 for materials shipping student debt etc
 
