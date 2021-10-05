@@ -5,11 +5,11 @@
 
 ## Project Overview
 
-Art objects for the home or office. Original sculptures made in oil clay, molded in silicone and cast in resin and concrete. Available upon request for trade of image with object at requesters work station. Initial group rendered at 1:6 scale as accurately as possible within approximately 0.5 millimeters.
+Art objects for the home or office. Original sculptures made in oil clay, molded in silicone and cast in resin and concrete. Available upon request for trade of image with object at requesters work station. Initial group rendered at 1:6 scale as accurately as possible within approximately 0.5 millimeters. Scalable monuments to our future success and failure. Desk meditation focal points for increased productivity during the work day. Machines dreaming about us dreaming about them. Educational tools to facilitate discussion / interest in computer history. Proposals for mass-market gotcha-pon sculptures. Archaic smiley faces. Anthropomorphised innanimate commodities. Simple fun objects watching me work and helping me enjoy my day.
 
 [https://twitter.com/societyobjects](https://twitter.com/societyobjects)
 
-### Unordered General Notes:
+<!-- ### Unordered General Notes:
 
 * hand made art objects for the home or office
 * scalable monuments to success and failure
@@ -20,7 +20,7 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 * archaic smile indicating life in death or death in life
 * projecting emotions on inanimate objects
 * exploring objects 
-
+ -->
 ---
 
 ## Instructions for Participation
