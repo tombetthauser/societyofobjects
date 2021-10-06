@@ -73,6 +73,13 @@ Simple fun objects watching me work and helping me enjoy my day.
 
 ## Future Plans...
 
+### Free 3D Files...
+* would be nice to 3D scan models
+* make them free / opensourcey
+* could be 3D printed for free minus materials
+* people could also improve on them
+* make them more accurate etc
+
 ### Leaving them on Earth...
 * leave sculptures in public / outdoor locations
 * no context no needless information
@@ -84,7 +91,6 @@ Simple fun objects watching me work and helping me enjoy my day.
 * considering possibility of moving up to 1:1 scale
 * have had mixed responses on that possibility
 * might change the feel / relationship they invite
-* might also 
 * also possibly moving up to 1:6 scale 
 
 ### Making them six feet tall...
