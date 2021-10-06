@@ -1,7 +1,7 @@
 ![computers](https://pbs.twimg.com/profile_banners/1442892340176187392/1632849516/1500x500)
 <!-- ![computers in the grass](https://pbs.twimg.com/media/FAZMzbXVEAIBP6w?format=jpg&name=large) -->
 
-# Society of Objects Readme
+<h1>Society of Objects Readme</h1>
 
 ## More Images / DM Request...
 * [twitter.com/societyobjects](https://twitter.com/societyobjects)
