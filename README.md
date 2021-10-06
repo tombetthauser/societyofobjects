@@ -3,19 +3,25 @@
 
 <h1>Society of Objects Readme</h1>
 
-## More Images / DM Request...
+## More Images...
 * [twitter.com/societyobjects](https://twitter.com/societyobjects)
 * [istagram.com/societyofobjects](https://www.instagram.com/societyofobjects/)
 
 
-## Incoherent Project Overview...
+## Project Overview...
 
 > 
 > TLDR: computer history analog sculpture fan art cast in concrete at 1:6 scale<br/>
 <!-- > more images: [twitter.com/societyobjects](https://twitter.com/societyobjects) -->
 > 
 
-Art objects for the home or office. Original sculptures made in oil clay, molded in silicone and cast in resin and concrete mostly. Available upon request especially for tech workers / software engineers. Send images of them on your desk at work or out in the world! Initial group rendered at 1:6 scale. While working on them thought about them as scalable monuments to future success or failure. Desk meditation focal points for increased productivity during the work day. Machines dreaming about me dreaming about them while I work on a machine telling other machines what to do. Friendly educational objects for my son to form an early relationship with as he enters a world of machines and people. Computer friends helping us survive in a strange and challanging universe. The the historical vanguard of personal computers that first found their way into our everyday lives. Tricycles for the mind. Approachable objects to to facilitate interest in computer history. Loving tributes to pacific rim gotcha-pon and scale model culture. Anthropomorphised innanimate commodities. Archaic smiley faces. Simple fun objects watching me work and helping me enjoy my day.
+Art objects for the home or office. Original sculptures made in oil clay, molded in silicone and cast in resin and concrete mostly. Available upon request especially for tech workers / software engineers. Send images of them on your desk at work or out in the world! Initial group rendered at 1:6 scale. While working on them thought about them as scalable monuments to future success or failure. Desk meditation focal points for increased productivity during the work day. Machines dreaming about me dreaming about them while I work on a machine telling other machines what to do. Friendly educational objects for my son to form an early relationship with as he enters a world of machines and people. 
+
+A personal excuse to learn more about the history of computers while I spend all day using a computer to talk to other people using computers about how we can use computers to tell other computers what to do for other people using computers. Computer friends helping us survive in a strange and challanging universe. The the historical vanguard of personal computers that first found their way into our everyday lives. Tricycles for the mind. Approachable objects to to facilitate interest in computer history. Loving tributes to pacific rim gotcha-pon and scale model culture. Anthropomorphised innanimate commodities. Archaic smiley faces. 
+
+Simple fun objects watching me work and helping me enjoy my day.
+
+
 
 
 
@@ -52,9 +58,17 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 
 ---
 
+<!-- ## Current Computers... -->
+
+<!-- 1) Bob – in honor of Bob Russell and [Bob Yannes](https://en.wikipedia.org/wiki/Robert_Yannes)
+2) Steve – in honor of [Steve Wozniac](https://en.wikipedia.org/wiki/Steve_Wozniak) and some other guy named [Steve](https://en.wikipedia.org/wiki/Tim_Cook)
+3) Don - in honor of [Don Estridge](https://en.wikipedia.org/wiki/Philip_Don_Estridge) -->
+
+---
+
 <!-- ![computer](https://pbs.twimg.com/media/FAZWEOoVcAA9baV?format=jpg&name=360x360) -->
 
-## Pipe-Dream Future Plans...
+## Future Plans...
 
 ### Leaving them on Earth...
 * leave sculptures in public / outdoor locations
