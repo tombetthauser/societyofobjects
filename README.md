@@ -186,5 +186,9 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 * seems like it would look good in large series
 * possibly 2/3 no faces and 1/3 faces mixed in
 
+---
 
+## Project Inspirations...
+* Rocky Bergen papercraft reproductions – ![http://rockybergen.com](http://rockybergen.com/papercraft)
+* Throwboy plush reproductions – ![https://throwboy.com](https://throwboy.com/)
 
