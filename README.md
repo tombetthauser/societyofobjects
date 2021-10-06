@@ -41,21 +41,23 @@ Simple fun objects watching me work and helping me enjoy my day.
 
 ![computers](https://pbs.twimg.com/media/FAZMzbXVEAIBP6w?format=jpg&name=360x360)
 
-
 ## If You Want a Computer...
 
 ### Get a Computer:
 1) you may have recieved a computer by mail or found computer in woods desert storm drain etc
 3) if you dont have one dm request to [@societyobjects](https://twitter.com/societyobjects)!
 4) three current computers are Robert, Don and Steve (in image above from left to right)
-5) pay what you want if desired for casting materials labor student loans etc
-6) studio art / passion project not profit-oriented
+
+### Don't Pay Me...
+1) pay what you want if desired for casting materials labor student loans etc
+2) sculpting is free kinda but casting materials add up kinda quick
+3) studio art / passion project not profit-oriented
 
 ### Share a Photo:
 1) ideally place computer on desk at work with actual work computer office supplies etc
 2) alternatively place in domestic or outdoor space lawn kitchen sink sidewalk homedepot ikea mcdonalds abandoned structure
 3) share photos by dm [@societyobjects](https://twitter.com/societyobjects) or maybe [#societyofobjects](https://twitter.com/search?q=%23societyofobjects&src=typed_query) etc
-4) would love to see where these end up in peoples lives / the world
+4) would love to see where these end up in peoples lives / the world!
 
 ---
 
