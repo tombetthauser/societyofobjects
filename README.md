@@ -3,9 +3,10 @@
 
 # Society of Objects Readme
 
-## Socially Destructive Links...
+## More Images / DM Request...
 * [twitter.com/societyobjects](https://twitter.com/societyobjects)
 * [istagram.com/societyofobjects](https://www.instagram.com/societyofobjects/)
+
 
 ## Incoherent Project Overview...
 
@@ -51,7 +52,7 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 
 ---
 
-![computer](https://pbs.twimg.com/media/FAZWEOoVcAA9baV?format=jpg&name=360x360)
+<!-- ![computer](https://pbs.twimg.com/media/FAZWEOoVcAA9baV?format=jpg&name=360x360) -->
 
 ## Pipe-Dream Future Plans...
 
@@ -90,7 +91,7 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 
 ---
 
-![computers](https://pbs.twimg.com/media/FAbhLIAUcAEs4Fw?format=jpg&name=360x360)
+<!-- ![computers](https://pbs.twimg.com/media/FAbhLIAUcAEs4Fw?format=jpg&name=360x360) -->
 
 ## Scattered Production Notes...
 
