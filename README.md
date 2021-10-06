@@ -11,13 +11,13 @@
 ## Project Overview...
 
 > 
-> TLDR: computer history analog sculpture fan art cast in concrete at 1:6 scale<br/>
+> TLDR: hand-made computer history sculpture fan art cast in concrete at 1:6 scale<br/>
 <!-- > more images: [twitter.com/societyobjects](https://twitter.com/societyobjects) -->
 > 
 
-Art objects for the home or office. Original sculptures made in oil clay, molded in silicone and cast in resin and concrete mostly. Available upon request especially for tech workers / software engineers. Send images of them on your desk at work or out in the world! Initial group rendered at 1:6 scale. While working on them thought about them as scalable monuments to future success or failure. Desk meditation focal points for increased productivity during the work day. Machines dreaming about me dreaming about them while I work on a machine telling other machines what to do. Friendly educational objects for my son to form an early relationship with as he enters a world of machines and people. 
+Art objects for the home or office. Original sculptures made in oil clay, molded in silicone and cast in resin and concrete mostly. Available upon request especially for tech workers / software engineers. Send images of them on your desk at work or out in the world! Initial group rendered at 1:6 scale. Scalable monuments to future successes or failures. Desk meditation focal points for increased productivity during the work day. Machines dreaming about people dreaming about machines. Computer friends helping us survive in a strange and challanging universe. The first wave of personal computers that successfully found their way into our everyday lives. Archaic smiley faces. 
 
-A personal excuse to learn more about the history of computers while I spend all day using a computer to talk to other people using computers about how we can use computers to tell other computers what to do for other people using computers. Computer friends helping us survive in a strange and challanging universe. The the historical vanguard of personal computers that first found their way into our everyday lives. Tricycles for the mind. Approachable objects to to facilitate interest in computer history. Loving tributes to pacific rim gotcha-pon and scale model culture. Anthropomorphised innanimate commodities. Archaic smiley faces. 
+A personal excuse to reflect on the strange inspiring horrifying history of computers while I spend all day using a computer to talk to other people using computers about how we can use computers to tell other computers what to do.
 
 Simple fun objects watching me work and helping me enjoy my day.
 
@@ -47,8 +47,9 @@ Simple fun objects watching me work and helping me enjoy my day.
 ### Get a Computer:
 1) you may have recieved a computer by mail or found computer in woods desert storm drain etc
 3) if you dont have one dm request to [@societyobjects](https://twitter.com/societyobjects)!
-4) pay what you want if desired for materials labor student loans etc
-5) studio art / passion project not profit-oriented
+4) three current computers are Robert, Don and Steve (in image above from left to right)
+5) pay what you want if desired for casting materials labor student loans etc
+6) studio art / passion project not profit-oriented
 
 ### Share a Photo:
 1) ideally place computer on desk at work with actual work computer office supplies etc
@@ -64,7 +65,7 @@ Simple fun objects watching me work and helping me enjoy my day.
 2) Steve – in honor of [Steve Wozniac](https://en.wikipedia.org/wiki/Steve_Wozniak) and some other guy named [Steve](https://en.wikipedia.org/wiki/Tim_Cook)
 3) Don - in honor of [Don Estridge](https://en.wikipedia.org/wiki/Philip_Don_Estridge) -->
 
----
+<!-- --- -->
 
 <!-- ![computer](https://pbs.twimg.com/media/FAZWEOoVcAA9baV?format=jpg&name=360x360) -->
 
