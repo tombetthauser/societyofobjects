@@ -192,3 +192,12 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 * Rocky Bergen papercraft reproductions – ![http://rockybergen.com](http://rockybergen.com/papercraft)
 * Throwboy plush reproductions – ![https://throwboy.com](https://throwboy.com/)
 
+
+
+<!-- ---
+
+## People to send computers to...
+* https://www.instagram.com/ourpocketuniverse/
+* https://www.instagram.com/macintoshlibrarian/
+
+ -->
