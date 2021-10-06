@@ -43,7 +43,7 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 
 ## Initial Production Notes...
 
-### Sculpting during coding bootcamp:
+### Sculpting during bootcamp:
 * started project shortly before onset of COVID pandemic
 * working in non-drying oil clay
 * made while attending a coding bootcamp to pursue software engineering job
@@ -51,7 +51,7 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 * made web art / artists websites as side projects
 * worked slowly during bootcamp
 
-### Finishing sculptures at first job:
+### Finishing sculptures:
 * began working more on sculptures after securing first software job
 * started learning more about computer history
 * started making sculptures more accurate
@@ -63,7 +63,7 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 * took much longer than expected
 * self-destructive detail obcession
 
-### Learning mold-making process:
+### Mold-making process:
 * after completing initial 3 computers began molding process
 * not trained as a sculptor
 * learned immensly from model-making communities youtube etc
@@ -79,7 +79,7 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 * flawless no-bubble casts with no pressure pot
 * got choked-up pulling the first cast out
 
-### Learning concrete casting:
+### Concrete casting:
 * no training or real experience with concrete
 * had very difficult time finding resources online
 * used Quick-Crete for casting from Home Depot
@@ -92,7 +92,7 @@ Art objects for the home or office. Original sculptures made in oil clay, molded
 * process was time consuming but worked
 * eventually found right balance for capturing details etc
 
-### The finishing touches:
+### Finishing touches:
 * got about 20-30 casts made in first run
 * various colors, material proportions etc
 * after this initial molds started to tear / deteriorate
