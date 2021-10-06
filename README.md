@@ -48,7 +48,7 @@ Simple fun objects watching me work and helping me enjoy my day.
 3) if you dont have one dm request to [@societyobjects](https://twitter.com/societyobjects)!
 4) three current computers are Robert, Don and Steve (in image above from left to right)
 
-### Don't Pay Me...
+### Don't Pay Me:
 1) pay what you want if desired for casting materials labor student loans etc
 2) sculpting is free kinda but casting materials add up kinda quick
 3) studio art / passion project not profit-oriented
