@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <head>
-  <title>Society of Objects</title>
   <link rel="stylesheet" href="./assets/app.css">
 </head>
-
-<style>
-</style>
-
 <body>
   <img src="https://pbs.twimg.com/profile_banners/1442892340176187392/1632849516/1500x500">
 
