@@ -12,7 +12,7 @@
   <ul>
     <li><a href="https://twitter.com/societyobjects">twitter.com/societyobjects</a></li>
     <li><a href="https://www.instagram.com/societyofobjects/">instagram.com/societyofobjects</a></li>
-    <li><a href="https://github.com/tombetthauser/societyofobjects">https://github.com/tombetthauser/societyofobjects</a></li>
+    <li><a href="https://github.com/tombetthauser/societyofobjects">github.com/societyofobjects</a></li>
   </ul>
 
   <hr>
