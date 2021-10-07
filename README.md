@@ -125,9 +125,7 @@
     <li>burning man **(echo)**</li>
   </ul>
 
-
-
-    <hr>
+  <hr>
 
   <h2>Scattered Production Notes...</h2>
 
