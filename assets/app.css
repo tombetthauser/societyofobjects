@@ -15,3 +15,5 @@ hr {
   margin-bottom: 40px;
   border-top: none;
 }
+
+@page { size: auto;  margin: 0mm; }
