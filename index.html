@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <head>
   <link rel="stylesheet" href="./assets/app.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
   <img src="https://pbs.twimg.com/profile_banners/1442892340176187392/1632849516/1500x500">
