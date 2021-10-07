@@ -82,7 +82,10 @@ Simple fun objects watching me work and helping me enjoy my day.
 
 ### Leaving them on Earth...
 * leave sculptures in public / outdoor locations
-* no context no needless information
+* socal desert northern west coast muir woods
+* computer science department bathrooms
+* no context no information?
+* note the geolocation
 * possibly a qr code to this url
 * leave-behind sculpture or gray-area graffiti
 * known problem of pieces getting separated
