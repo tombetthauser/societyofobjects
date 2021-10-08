@@ -30,7 +30,9 @@ hr {
   /* background-image: url("./computer.png"); */
   /* background-size: 50px; */
   background-image: url("https://pbs.twimg.com/profile_images/1442901561735188483/M8WFMbNN_400x400.jpg");
+  /* background-size: 200px; */
   background-size: cover;
+  /* background-position: 133px 147px; */
   background-position: center;
   border-radius: 50%;
   position: fixed;
@@ -41,7 +43,7 @@ hr {
   animation: rock 5s ease-in-out infinite;
   -webkit-animation: rock 5s ease-in-out infinite;
   -moz-animation: rock 5s ease-in-out infinite;
-  box-shadow: 0px 5px 7px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 5px 7px rgba(0, 0, 0, 1);
   /* border: 5px solid white; */
 }
 
