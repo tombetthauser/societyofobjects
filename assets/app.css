@@ -1,3 +1,7 @@
+html {
+  transition: 1s;
+}
+
 body {
   width: 750px;
   max-width: 90%;
