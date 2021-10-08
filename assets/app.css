@@ -3,8 +3,8 @@ body {
   max-width: 90%;
   min-width: 300px;
   display: block;
-  margin: 1.5% auto;
-  padding-top: 15px; 
+  margin: 1.5% auto 150px;
+  padding-top: 15px;
 }
 
 img {
@@ -18,14 +18,19 @@ hr {
 }
 
 .computer-buddy {
-  height: 45px;
+  /* height: 45px; */
+  height: 50px;
   width: 50px;
-  background-image: url("./computer.png");
-  background-size: 50px;
+  /* background-image: url("./computer.png"); */
+  /* background-size: 50px; */
+  background-image: url("https://pbs.twimg.com/profile_images/1442901561735188483/M8WFMbNN_400x400.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
   position: fixed;
-  bottom: 30px;
-  right: 20px;
-  filter: brightness(.8) saturate(.2) contrast(2);
+  bottom: 25px;
+  right: 25px;
+  /* filter: brightness(.8) saturate(.2) contrast(2); */
   z-index: 2;
   animation: rock 5s ease-in-out infinite;
   -webkit-animation: rock 5s ease-in-out infinite;
