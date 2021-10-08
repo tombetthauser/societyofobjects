@@ -17,10 +17,10 @@ hr {
 }
 
 .computer-buddy {
-  height: 70px;
-  width: 80px;
+  height: 45px;
+  width: 50px;
   background-image: url("./computer.png");
-  background-size: 80px;
+  background-size: 50px;
   position: fixed;
   bottom: 30px;
   right: 20px;
