@@ -17,3 +17,9 @@ hr {
 }
 
 @page { size: auto;  margin: 0mm; }
+
+@media print {
+  img {
+    filter: saturate(0);
+  }
+}
