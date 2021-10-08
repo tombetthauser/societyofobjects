@@ -19,8 +19,10 @@ hr {
 
 .computer-buddy {
   /* height: 45px; */
-  height: 50px;
-  width: 50px;
+  height: 12.5vw;
+  width: 12.5vw;
+  max-height: 70px;
+  max-width: 70px;
   /* background-image: url("./computer.png"); */
   /* background-size: 50px; */
   background-image: url("https://pbs.twimg.com/profile_images/1442901561735188483/M8WFMbNN_400x400.jpg");
@@ -35,6 +37,8 @@ hr {
   animation: rock 5s ease-in-out infinite;
   -webkit-animation: rock 5s ease-in-out infinite;
   -moz-animation: rock 5s ease-in-out infinite;
+  box-shadow: 0px 5px 7px rgba(0, 0, 0, 0.5);
+  /* border: 5px solid white; */
 }
 
 @page { size: auto;  margin: 0mm; }
@@ -46,18 +50,18 @@ hr {
 }
 
 @keyframes rock { 
-    0% { transform:rotate(-5deg); } 
+    0% { transform:rotate(-10deg); } 
     50% { transform:rotate(5deg); } 
-    100% { transform:rotate(-5deg); } 
+    100% { transform:rotate(-10deg); } 
 }
 
 @-moz-keyframes spin { 
-    0% { transform:rotate(-5deg); } 
+    0% { transform:rotate(-10deg); } 
     50% { transform:rotate(5deg); } 
-    100% { transform:rotate(-5deg); } 
+    100% { transform:rotate(-10deg); } 
 }
 @-webkit-keyframes spin { 
-    0% { transform:rotate(-5deg); } 
+    0% { transform:rotate(-10deg); } 
     50% { transform:rotate(5deg); } 
-    100% { transform:rotate(-5deg); } 
+    100% { transform:rotate(-10deg); } 
 }
