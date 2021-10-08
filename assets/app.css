@@ -16,6 +16,18 @@ hr {
   border-top: none;
 }
 
+.computer-buddy {
+  height: 70px;
+  width: 80px;
+  background-image: url("./computer.png");
+  background-size: 80px;
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+  filter: brightness(.8) saturate(.2) contrast(2);
+  z-index: 2;
+}
+
 @page { size: auto;  margin: 0mm; }
 
 @media print {
