@@ -40,18 +40,18 @@ hr {
 }
 
 @keyframes rock { 
-    0% { transform:rotate(-3deg); } 
-    50% { transform:rotate(3deg); } 
-    100% { transform:rotate(-3deg); } 
+    0% { transform:rotate(-5deg); } 
+    50% { transform:rotate(5deg); } 
+    100% { transform:rotate(-5deg); } 
 }
 
 @-moz-keyframes spin { 
-    0% { transform:rotate(-3deg); } 
-    50% { transform:rotate(3deg); } 
-    100% { transform:rotate(-3deg); } 
+    0% { transform:rotate(-5deg); } 
+    50% { transform:rotate(5deg); } 
+    100% { transform:rotate(-5deg); } 
 }
 @-webkit-keyframes spin { 
-    0% { transform:rotate(-3deg); } 
-    50% { transform:rotate(3deg); } 
-    100% { transform:rotate(-3deg); } 
+    0% { transform:rotate(-5deg); } 
+    50% { transform:rotate(5deg); } 
+    100% { transform:rotate(-5deg); } 
 }
