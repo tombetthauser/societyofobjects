@@ -26,6 +26,7 @@ hr {
   right: 20px;
   filter: brightness(.8) saturate(.2) contrast(2);
   z-index: 2;
+  animation: rock 5s ease-in-out infinite;
 }
 
 @page { size: auto;  margin: 0mm; }
@@ -34,4 +35,10 @@ hr {
   img {
     filter: saturate(0);
   }
+}
+
+@keyframes rock { 
+    0% { transform:rotate(-2.5deg); } 
+    50% { transform:rotate(2.5deg); } 
+    100% { transform:rotate(-2.5deg); } 
 }
