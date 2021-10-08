@@ -27,6 +27,8 @@ hr {
   filter: brightness(.8) saturate(.2) contrast(2);
   z-index: 2;
   animation: rock 5s ease-in-out infinite;
+  -webkit-animation: rock 5s ease-in-out infinite;
+  -moz-animation: rock 5s ease-in-out infinite;
 }
 
 @page { size: auto;  margin: 0mm; }
@@ -38,7 +40,18 @@ hr {
 }
 
 @keyframes rock { 
-    0% { transform:rotate(-2.5deg); } 
-    50% { transform:rotate(2.5deg); } 
-    100% { transform:rotate(-2.5deg); } 
+    0% { transform:rotate(-3deg); } 
+    50% { transform:rotate(3deg); } 
+    100% { transform:rotate(-3deg); } 
+}
+
+@-moz-keyframes spin { 
+    0% { transform:rotate(-3deg); } 
+    50% { transform:rotate(3deg); } 
+    100% { transform:rotate(-3deg); } 
+}
+@-webkit-keyframes spin { 
+    0% { transform:rotate(-3deg); } 
+    50% { transform:rotate(3deg); } 
+    100% { transform:rotate(-3deg); } 
 }
