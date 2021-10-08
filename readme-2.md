@@ -27,12 +27,12 @@
   <h2>Instructions:</h2>
   <p>
     get a computer in mail or find one<br>
-    available by dm <a target="new" href="https://twitter.com/societyobj">twitter</a> <a target="new" href="https://twitter.com/societyobj">instagram</a> <a href="#contact-hr">email</a><br>
+    available by dm <a target="new" href="https://twitter.com/societyobj">twitter</a> <a target="new" href="https://twitter.com/societyobj">instagram</a> <a href="#top">email</a><br>
     current computers robert steve don<br>
     no payment required passion project not profit-driven<br>
     donations optional for casting materials shipping student loans etc<br>
     put computer on desk at work or outside urban space etc<br>
-    share a photo by dm <a target="new" href="https://twitter.com/societyobj">twitter</a> <a target="new" href="https://twitter.com/societyobj">instagram</a> <a href="#contact-hr">email</a><br>
+    share a photo by dm <a target="new" href="https://twitter.com/societyobj">twitter</a> <a target="new" href="https://twitter.com/societyobj">instagram</a> <a href="#top">email</a><br>
     would love to see them out in the world<br>
   </p>
 
@@ -67,20 +67,9 @@
 
   <h2>Project Inspirations</h2>
   <p>
-    rocky bergen papercraft reproductions <a href="http://rockybergen.com/papercraft">rockybergen.com</a><br>
-    throwboy plush reproductions <a href="https://throwboy.com/">throwboy.com</a><br>
+    Rocky Bergen papercraft reproductions – <a href="http://rockybergen.com/papercraft">http://rockybergen.com</a><br>
+    Throwboy plush reproductions – <a href="https://throwboy.com/">http://throwboy.com</a><br>
     Society of Objects (paper)<br>
-  </p>
-
-  <hr id="contact-hr">
-  
-  <h2>Contact</h2>
-  <p>
-    message <a target="new" href="https://twitter.com/societyobjects">twitter.com/societyobjects</a><br>
-    message <a target="new" href="https://www.instagram.com/societyofobjects/">instagram.com/societyofobjects</a><br>
-  </p>
-  <p>
-    tombetthauser@gmail.com
   </p>
 
   <div class="computer-buddy"></div>
