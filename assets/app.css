@@ -51,6 +51,12 @@ hr {
   img {
     filter: saturate(0);
   }
+  body {
+    font-size: large;
+  }
+  div {
+    page-break-inside: avoid;
+  }
 }
 
 @keyframes rock { 
