@@ -42,14 +42,14 @@ hr {
   /* box-shadow: 0px 5px 7px rgba(0, 0, 0, 1); */
   /* border: 5px solid white; */
   opacity: 1;
-  transition: 0.5s;
+  /* transition: 0.5s; */
 }
 
 /* @page { size: auto;  margin: 50px; } */
 
 @media print {
   img {
-    filter: saturate(0) brightness(1.1) contrast(5);
+    filter: saturate(0) brightness(1.05) contrast(20);
     border: 1px solid black;
     box-shadow: 7.5px 7.5px 0 black;
     width: 80%;
@@ -69,6 +69,22 @@ hr {
     margin-top: 50px;
     font-size: 30px;
   }
+  #qrcode-1 {
+    width: 125px;
+    height: 125px;
+    background-image: url("./qrcode.png");
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+#qrcode-2 {
+  margin-top: 25px;
+  width: 125px;
+  height: 125px;
+  background-image: url("./qrcode.png");
+  background-position: center;
+  background-size: cover;
 }
 
 @keyframes rock { 
