@@ -53,9 +53,15 @@ hr {
   }
   body {
     font-size: large;
+    line-height: 20px;
   }
   div {
     page-break-inside: avoid;
+  }
+  hr {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-top: none;
   }
 }
 
