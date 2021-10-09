@@ -49,9 +49,10 @@ hr {
 
 @media print {
   img {
-    filter: saturate(0) brightness(1.1) contrast(20);
+    filter: saturate(0) brightness(1.1) contrast(5);
     border: 1px solid black;
     box-shadow: 7.5px 7.5px 0 black;
+    width: 80%;
   }
   body {
     font-size: 10px;
