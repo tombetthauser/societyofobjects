@@ -95,11 +95,11 @@ hr {
     background-size: contain;
     margin-top: 30px;
     display: block;
+    border: none;
   }
 
   #qrcode-2 {
     display: none;
-    border: none;
   }
 
   h1 {
