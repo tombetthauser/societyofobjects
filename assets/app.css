@@ -69,7 +69,7 @@ hr {
 
 @media print {
   img {
-    filter: saturate(0) brightness(1.05);
+    filter: saturate(0) brightness(1.05) contrast(5);
     border: 1px solid black;
     box-shadow: 7.5px 7.5px 0 black;
     width: 80%;
@@ -88,12 +88,13 @@ hr {
   }
 
   #qrcode-1 {
-    width: 100px;
-    height: 100px;
+    width: 85px;
+    height: 85px;
     background-image: url("./qrcode.png");
     background-position: center;
     background-size: contain;
     margin-top: 30px;
+    margin-bottom: 70px;
     display: block;
     border: none;
   }
@@ -108,8 +109,8 @@ hr {
   }
 
   .h1-hr {
-    margin-top: -20px;
-    margin-bottom: 40px;
+    margin-top: -30px;
+    margin-bottom: 30px;
   }
 
   .sub-h1 {
