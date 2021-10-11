@@ -73,11 +73,17 @@ hr {
 
 @media print {
   img {
-    filter: saturate(0) brightness(1.05) contrast(5);
+    /* filter: saturate(0) brightness(1.05) contrast(5); */
+    /* filter: contrast(20); */
     border: 1px solid black;
     box-shadow: 7.5px 7.5px 0 black;
     width: 80%;
     margin-top: -20px;
+  }
+  #banner-img {
+    /* background: url("./assets/banner-lines.png"); */
+    /* content: url("./assets/banner-lines.png") */
+    display: none;
   }
   body {
     font-size: 10px;
