@@ -1,0 +1,16 @@
+<html>
+  <header>
+    <link rel="stylesheet" href="../assets/app.css">
+  </header>
+  <h1>Society of Objects</h1>
+  <h3>Images / Studio Log</h3>
+  <br>
+<a href='./images/1.jpg'><img src='./images/1.jpg'></a>
+<p>1</p><br>
+<a href='./images/2.png'><img src='./images/2.png'></a>
+<p>2</p><br>
+<a href='./images/a black and white cat laying down.png'><img src='./images/a black and white cat laying down.png'></a>
+<p>a black and white cat laying down</p><br>
+<a href='./images/just a test.png'><img src='./images/just a test.png'></a>
+<p>just a test</p><br>
+</html>

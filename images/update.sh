@@ -5,12 +5,14 @@ do
   ext="${file##*.}"
   if [ "$ext" == "jpg" ] || [ "$ext" == "png" ] || [ "$ext" == "jpeg" ]
   then
-    echo "<img src='$file'>" >> ./index.html
+    echo "<a href='$file'><img src='$file'></a>" >> ./index.html
     noextfile=${file%.*}
     noslashfile=${noextfile##*/}
-    echo "<p>$noslashfile</p>" >> ./index.html
+    echo "<p>$noslashfile</p><br>" >> ./index.html
     let COUNT++
   fi
 done
 
 cat ./assets/footer.html >> ./index.html
+
+cp ./index.html ./README.md
