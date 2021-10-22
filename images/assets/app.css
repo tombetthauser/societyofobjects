@@ -1,4 +1,4 @@
-img {
+/* img {
   width: 80%;
   display: block;
   margin-left: auto;
@@ -9,4 +9,143 @@ p {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 25px;
+} */
+
+
+
+
+
+
+body {
+  width: 650px;
+  max-width: 90%;
+  min-width: 300px;
+  display: block;
+  margin: 1.5% auto 150px;
+  padding-top: 15px;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  white-space: nowrap;
+  text-align: center;
+  margin-bottom: 15px;
+  margin-bottom: 30px;
+  font-size: 13px;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+.h1-hr {
+  margin-top: -20px;
+}
+
+.sub-h1 {
+  font-size: 30px;
+  margin-top: -25px;
+}
+
+/* .unbold {
+  font-weight: 50;
+  font-size: 25px;
+} */
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-top: none;
+}
+
+.computer-buddy {
+  height: 12.5vw;
+  width: 12.5vw;
+  max-height: 70px;
+  max-width: 70px;
+  background-image: url("https://pbs.twimg.com/profile_images/1442901561735188483/M8WFMbNN_400x400.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  z-index: 2;
+  animation: rock 5s ease-in-out infinite;
+  -webkit-animation: rock 5s ease-in-out infinite;
+  -moz-animation: rock 5s ease-in-out infinite;
+  opacity: 1;
+}
+
+#qrcode-1 {
+  display: none;
+}
+
+#qrcode-2 {
+  margin-top: 25px;
+  width: 125px;
+  height: 125px;
+  background-image: url("./qrcode.png");
+  background-position: center;
+  background-size: cover;
+}
+
+@media print {
+  img {
+    /* filter: saturate(0) brightness(1.05) contrast(5); */
+    /* filter: contrast(20); */
+    border: 1px solid black;
+    box-shadow: 7.5px 7.5px 0 black;
+    width: 80%;
+    margin-top: -20px;
+  }
+  #banner-img {
+    /* background: url("./assets/banner-lines.png"); */
+    /* content: url("./assets/banner-lines.png") */
+    display: none;
+  }
+  body {
+    font-size: 10px;
+  }
+  div {
+    page-break-inside: avoid;
+  }
+  hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-top: none;
+  }
+
+  #qrcode-1 {
+    width: 85px;
+    height: 85px;
+    background-image: url("./qrcode.png");
+    background-position: center;
+    background-size: contain;
+    margin-top: 30px;
+    margin-bottom: 70px;
+    display: block;
+    border: none;
+  }
+
+  #qrcode-2 {
+    display: none;
+  }
+
+  h1 {
+    margin-top: 20px;
+    font-size: 40px;
+  }
+
+  .h1-hr {
+    margin-top: -30px;
+    margin-bottom: 30px;
+  }
+
+  .sub-h1 {
+    font-size: 25px;
+  }
 }
