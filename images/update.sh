@@ -1,6 +1,6 @@
 cat ./assets/header.html > ./index.html
 
-for file in ls -lth ./images/*
+for file in ls -lrth ./images/*
 do
   ext="${file##*.}"
   if [ "$ext" == "jpg" ] || [ "$ext" == "png" ] || [ "$ext" == "jpeg" ]
