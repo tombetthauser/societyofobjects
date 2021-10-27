@@ -1,10 +1,13 @@
 cat ./assets/header.html > ./index.html
 
-for file in ls -lrth ./images/*
+ls -larth ./images/*
+
+for file in ls -larth ./images/*
 do
   ext="${file##*.}"
   if [ "$ext" == "jpg" ] || [ "$ext" == "png" ] || [ "$ext" == "jpeg" ]
   then
+    echo $file
     echo "<a href='$file'><img src='$file'></a>" >> ./index.html
     noextfile=${file%.*}
     noslashfile=${noextfile##*/}

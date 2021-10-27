@@ -6,7 +6,7 @@ do
   if [ "$ext" == "jpg" ] || [ "$ext" == "png" ] || [ "$ext" == "jpeg" ]
   then
     # echo $file
-    mv "$file" "$COUNT.$ext"
+    echo "$file" "$COUNT.$ext"
     let COUNT++
   fi
 done
