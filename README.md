@@ -126,8 +126,7 @@
   <div>
     <h2>Contact</h2>
     <p>
-      message <a target="new" href="https://twitter.com/societyobjects">twitter.com/societyobjects</a><br>
-      message <a target="new" href="https://www.instagram.com/societyofobjects/">instagram.com/societyofobjects</a><br>
+      message <a target="new" href="https://pixelfed.social/tombetthauser">https://pixelfed.social/tombetthauser</a><br>
       venmo link <a target="new" href="https://venmo.com/u/tombetthauser">venmo.com/u/tombetthauser</a><br>
     </p>
     <p>
