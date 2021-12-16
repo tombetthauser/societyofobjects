@@ -14,12 +14,9 @@
     <p>
       concrete and resin art things for the home or office<br>
       hand sculpted in oil clay at 1:6 scale mostly<br>
-      more images on <a target="new" href="https://twitter.com/societyobjects">twitter</a> <a target="new" href="https://twitter.com/societyobjects">instagram</a><br>
-      available by dm<br>
+      available by request<br>
     </p>
-    <a target="new" href="https://twitter.com/societyobjects">twitter.com/societyobjects</a><br>
-    <a target="new" href="https://www.instagram.com/societyofobjects/">instagram.com/societyofobjects</a><br>
-    <a href="https://github.com/tombetthauser/societyofobjects">github.com/tombetthauser/societyofobjects</a><br>
+    <a target="new" href="https://pixelfed.social/tombetthauser">https://pixelfed.social/tombetthauser</a><br>
     <a target="new" href="https://venmo.com/u/tombetthauser">venmo.com/u/tombetthauser</a><br>
     tombetthauser@gmail.com
     <hr>
@@ -29,13 +26,13 @@
     <h2>Instructions</h2>
     <p>
       get a sculpture in mail or find one<br>
-      available by dm <a target="new" href="https://twitter.com/societyobjects">twitter</a> <a target="new" href="https://twitter.com/societyobjects">instagram</a> <a href="#contact-hr">tombetthauser@gmail.com</a><br>
+      available by request<br>
       no payment required passion project not profit-driven<br>
       donations optional for casting materials shipping student loans etc<br>
       venmo link <a target="new" href="https://venmo.com/u/tombetthauser">venmo.com/u/tombetthauser</a><br>
     </p><p>
       put sculpture on desk at work or outdoors nature urban space etc<br>
-      send a photo direct message or email <a target="new" href="https://twitter.com/societyobjects">twitter</a> <a target="new" href="https://twitter.com/societyobjects">instagram</a> <a href="#contact-hr">tombetthauser@gmail.com</a><br>
+      email a photo tombetthauser@gmail.com<br>
       suggest a friend colleague etc that might enjoy getting one<br>
       would love to see them out in the world<br>
     </p>
@@ -138,6 +135,6 @@
 
   <!-- <a href="#top" class="computer-buddy"></a> -->
 
-  <script src="./assets/app.js"></script>
+<!--   <script src="./assets/app.js"></script> -->
 </body>
 </html>
