@@ -8,7 +8,7 @@
     <!-- <img src="https://pbs.twimg.com/profile_banners/1442892340176187392/1632849516/1500x500"> -->
     <img src="./assets/banner.jpg">
     <!-- <img src="./assets/banner-lines.png"> -->
-    <h1>Society of Objects</h1>
+    <h1>Computer Buddies</h1>
     <hr class="h1-hr">
     <h2 class="sub-h1">Studio Project Readme</h2>
     <p>
